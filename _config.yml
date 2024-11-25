@@ -18,9 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Approximate knowledge
+title: Approximate Knowledge
 description: >- # this means to ignore newlines until "baseurl:"
-  A personal blog themed around the cat with approximate knowledge of many things.
+  A personal blog themed around the demon cat with approximate knowledge of
+  many things. Besides showcasing my interactive visual art projects, includes
+  explorations of etymology and the history of technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://approximateknowledge.net" # the base hostname & protocol for your site, e.g. http://example.com
 
