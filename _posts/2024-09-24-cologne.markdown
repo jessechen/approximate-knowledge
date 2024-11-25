@@ -1,0 +1,13 @@
+---
+layout: post
+title:  cologne
+date:   2024-09-24
+categories: etym
+---
+The scented oil *cologne* is a genericized trademark, named after the fragrance Eau de Cologne, first sold by Italian-German perfumier Giovanni Maria Farina in 1709. Farina's perfume was citrusy and renowned for being consistently homogeneous. Its fame was such that it was referred to as *aqua mirabilis* (Latin for "miracle water") among European nobility, and it cost six months of a clerk's salary per bottle. When France conquered Cologne as part of the 1797 [Treaty of Campo Formio](https://en.wikipedia.org/wiki/Treaty_of_Campo_Formio), the free trade regime it imposed led to dozens of imitators selling knockoff Eau de Cologne springing up, prompting its genericization.
+
+Farina named Eau de Cologne after his place of residence, the Free Imperial City of Cologne. Rather than a German name like Kölnisch Wasser (Köln is the name of the city in German), he gave it a French name because it was the lingua franca among European nobility at the time. The company he founded in 1709, [Johann Maria Farina gegenüber dem Jülichs-Platz GmbH](https://en.wikipedia.org/wiki/Johann_Maria_Farina_gegen%C3%BCber_dem_J%C3%BClichs-Platz), still exists and manufactures cologne today.
+
+The city of Cologne was founded around 50 CE as a Roman colony, named Colōnia Agrippina after the woman who supported its promotion from a military garrison, Nero's mother [Julia Agrippina](https://en.wikipedia.org/wiki/Agrippina_the_Younger). Ironically, in every language except Latin, over the millennia the "Agrippina" portion of the name was dropped, leaving just Colōnia/Cologne/Köln, Latin for "colony".
+
+The Latin word colōnia comes from colōnus, meaning colonist or farmer, which in turn comes from colō, meaning to cultivate or till. Colō has been reconstructed to descend from Proto-Indo-European kʷelh₁ some 6000 years ago, meaning to turn, revolve, or dwell. Other words that descend from kʷelh₁ include Greek τέλος (télos) and English wheel.

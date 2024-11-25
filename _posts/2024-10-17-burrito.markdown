@@ -1,0 +1,11 @@
+---
+layout: post
+title:  burrito
+date:   2024-10-17
+categories: etym
+---
+The wrap *burrito* is first found in print in English in [Erna Fergusson's](https://en.wikipedia.org/wiki/Erna_Fergusson) Mexican Cookbook, published in 1934 in New Mexico. However, the burrito described in this cookbook is more like what we'd call a tostada today.
+
+In Mexico, the term seems to have arrived at its modern meaning in the late 1800s; an 1895 dictionary lists the modern usage as one of its meanings, with the other being a regional slang term for "taco". In Mexican Spanish, *burrito* originates from a diminutive of *burro* (donkey). The food is probably so named because it resembles a rolled-up pack often found on the back of a donkey.
+
+The Spanish word *burro* descends directly from the Latin *burricus*, meaning small horse, which itself is named after the color *burrus*, meaning reddish-brown. Latin *burrus* is a borrowing from Greek πυρρός (purros), meaning flame-colored, yellowish-red, or tawny. The Greek color is clearly named after its root πῦρ (pur), meaning fire, like we see in the borrowed English prefix *pyro-*.

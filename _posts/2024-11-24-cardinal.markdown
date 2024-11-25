@@ -1,0 +1,11 @@
+---
+layout: post
+title:  cardinal
+date:   2024-11-24
+categories: etym
+---
+The bird *cardinal* was named in the late 1600s for its distinctive bright red color, which resembled the bright red robes Catholic cardinals wear. The name given to Catholic cardinals predates the English language, first appearing in print in the 700s. It was based on Latin *cardinālis* (root word *cardō*), originally meaning "pivot" or "hinge", but by the 500s being used more to mean "principal" or "eminent", so a natural metaphor for the most important priests.
+
+I assumed on learning this that *cardō* was also the root for *cardiac*, but that's Greek καρδία (kardía) meaning simply "heart" instead.
+
+You can also see how the "principal" meaning gave rise to other uses of the adjective *cardinal*, like cardinal numbers and cardinal sins. Courtesy of wikipedia, [here are some bonus facts I learned about the cardinal directions while researching](https://en.wikipedia.org/wiki/Cardinal_direction#Germanic_origin_of_names). I actually had never noticed before that even in Romance languages, the direction names are Germanic.
