@@ -21,8 +21,8 @@
 title: Approximate Knowledge
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog themed around the demon cat with approximate knowledge of
-  many things. Besides showcasing my interactive visual art projects, includes
-  explorations of etymology and the history of technology.
+  many things. Besides showcasing my interactive visual art projects, it
+  includes explorations of etymology and the history of technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://approximateknowledge.net" # the base hostname & protocol for your site, e.g. http://example.com
 
