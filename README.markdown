@@ -19,4 +19,4 @@ Setup
 License
 -------
 
-MIT
+Creative Commons Zero 1.0
