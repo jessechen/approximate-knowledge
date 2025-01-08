@@ -1,0 +1,11 @@
+---
+layout: post
+title:  jeep
+date:   2024-12-21
+categories: etym
+---
+The vehicle type *jeep* dates to 1941 US military slang referring to specifically the Willys MB and the closely related Ford GPW. Willys-Overland Motors, its original manufacturer, had to license its design to Ford because it was unable to keep up with production. Ford's model name came from a company template: G for government vehicle, P for 80" wheelbase, and W for Willys original design.
+
+The alteration from GPW to *jeep* was likely strongly influenced by Popeye comics character Eugene the Jeep, introduced in 1936 as a strange animal with magic powers that could only communicate by saying "Jeep". You can imagine how the impressive all-terrain ability of the jeep might have been evocative of those powers.
+
+Willys-Overland eventually ended up with the Jeep trademark after some disputes in 1950. It merged with Kaiser in 1953, the resulting company was bought by American Motors in 1970, and that company was bought by Chrysler in 1987, which continues to manufacture Jeeps to this day.
