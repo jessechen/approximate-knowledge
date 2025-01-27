@@ -1,0 +1,13 @@
+---
+layout: post
+title:  draught
+date:   2024-12-25
+categories: etym
+---
+The archaic term for a quantity of liquid *draught* predates English. It's related to the Old English verb *dragan*, "to drag", which probably comes directly from Proto-Indo-European dʰregʰ, "to pull". The word started referring to a liquid quantity because for most of history, beer barrels were dragged to the customer's table and tapped right there. This only started changing when John Lofting, a London inventor from the Netherlands, invented the "beer engine" in 1691, a system of flexible hoses that allowed bartenders to manually pump beer from the cellar directly to the bar. 
+
+The Middle English word was pronounced the way it was spelled, with the /gh/ sounding like the final consonant in *loch*, like the "gh" typically was in words like *daughter* and *knight* before the sound stopped being part of standard English and was typically dropped. In *draught*, instead of dropping the /x/ sound (as it's written in IPA), it became an /f/ sound, and by the 1500s it was even sometimes spelled *draft* to reflect the pronunciation change. However, some of the derived meanings, like "air current" or "animal that pulls", predate the variant spelling. While American English almost entirely uses *draft* unless intentionally evoking archaic language, British English still sometimes uses *draught* for those senses.
+
+One sense I was surprised to learn about today is the game "English draughts", which in the US is called "checkers". In most other European languages, the game is called some form of *dames*, "ladies", but in England it got the name *draughts*, probably because you drag the pieces when you move them. English chess moves were even called *draughts* for a few hundred years.
+
+Anyway, that's the story of how I pronounced "healing draught" as "drawt" until I was eighteen.
