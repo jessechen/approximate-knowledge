@@ -25,7 +25,7 @@ url: "http://approximateknowledge.net" # the base hostname & protocol for your s
 
 # Build settings
 theme: minima
-paginate: 2
+paginate: 5
 plugins:
   - jekyll-feed
   - jekyll-paginate

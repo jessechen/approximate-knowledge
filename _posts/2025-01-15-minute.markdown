@@ -1,0 +1,15 @@
+---
+layout: post
+title:  minute
+date:   2025-01-15
+categories: etym
+---
+The time unit *minute* is first attested in English in the late 1300s, a borrowing from Old French *minute*, which is in turn borrowed from Medieval Latin *minūta*. The story of *minūta* is where it gets interesting. In Classical Latin, that word only means "very small". The "small" sense of *minute* was actually borrowed into English later, in the mid-1400s.
+
+So going all the way back, the Sumerian numeral system was written in base 60, or *sexagesimal*. We have written evidence for that going back 5,000 years. The Babylonians adopted their own base-60 system thousands of years later due to Sumerian influence. So it happened that Babylonian astronomy, which was developed 2,700 years ago and heavily influenced Greek, Arabic, and Indian astronomy, used a base-60 numeral system. One way this manifested was that they divided circles into 360 *degrees*, and when they needed subdivisions, each further subdivision was into 60 parts.
+
+Hundreds of years later, when translating Greek astronomy into Latin, the subdivisions of degrees came to be called *pars minuta prima*, "first small part". The next subdivisions were *pars minuta secunda*, "second small part", and *pars minuta tertia*, "third small part". So when measuring very small fractions of a circle, as in astronomy or latitude/longitude, you used degrees, minutes, and seconds for precision. Today we say New York is at 40.7128° N owing to the invention of digital calculators, but just a hundred years ago you'd instead write 40°42′46″ N.
+
+But that *pars minuta prima* only refers to measurements of arc, not time. Subdividing an hour into 60 parts first happened much, much later, in the الآثار الباقية عن القرون الخالية (Kitāb al-āthār al-bāqiyah \`an al-qurūn al-khāliyah) "The Remaining Signs of Past Centuries", an influential comparative history of timekeeping, written in 1000 by Abu Rayhan Muhammad ibn Ahmad al-Biruni. This subdivision of the hour into 60 parts only makes it into Medieval Latin in 1267, thanks to Roger Bacon.
+
+It blows my mind that there wasn't a standard unit of time smaller than an hour for so long! The first clock with a minute hand wasn't constructed until 1577!
