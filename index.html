@@ -19,13 +19,13 @@ layout: home
 
 <nav class="pagination">
     <span class="pagination-previous">
-    {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">← Newer posts</a>
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">← Newer posts</a>
     {% endif %}
     </span>
     <span class="pagination-next">
-        {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">Older posts →</a>
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">Older posts →</a>
     {% endif %}
     </span>
 </div>
