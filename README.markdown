@@ -9,7 +9,7 @@ NOTE TO FUTURE SELF: This is backed by https://github.com/jekyll/minima/tree/2.5
 Production
 ----------
 
-~~[GitHub Pages](https://jessechen.github.io/approximate-knowledge)~~
+https://approximateknowledge.net
 
 Setup
 -----
