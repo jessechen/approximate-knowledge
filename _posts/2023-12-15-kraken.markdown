@@ -1,0 +1,12 @@
+---
+layout: post
+title: kraken
+date: 2023-12-15
+categories: etym
+origin: 1755
+---
+The word *kraken* to describe a giant squid was invented by Norwegian bishop Erik Pontoppidan in 1753. It's based on the Norwegian dialectal "krake", meaning sea monster, itself based on Old Norse "kraki", literally "something twisted". (The reconstructed Proto-Germanic root it's likely derived from, "krankaz", is also the likely source of e.g. English "crank".)
+
+But wait, you might ask. How is it that this Norwegian word first attested in the 1700s is used to describe a beast from Greek mythology? The 1981 film Clash of the Titans, a Greek epic, is the source of this connection. It includes both a kraken and the still-memed-today line "Release the kraken!" despite kraken having no prior relation to Greek mythology.
+
+The less exciting middle part includes the Norwegian word making it into English through misattribution to Carl Linnaeus's famous 1735 taxonomy and becoming a well-known English term by the time of Alfred Tennyson's 1830 poem *The Kraken*. The less exciting end part includes the hockey team the Seattle Kraken, est'd 2018.

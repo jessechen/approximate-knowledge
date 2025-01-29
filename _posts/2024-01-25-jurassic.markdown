@@ -1,0 +1,16 @@
+---
+layout: post
+title: Jurassic
+date: 2024-01-25
+categories: etym
+origin: 1831
+---
+I've always been mildly curious about the origins of the era names we use for Deep Time like Jurassic and Cretaceous. In particular, I often mix up the more recent ones. I finally laid them out spatially in a spreadsheet to try to wrap my head around it and wanted to share what I learned. At a high level, it's pretty amazing how difficult of a problem naming eras is. Like with elements, when you discover one, you know very little about it and the name is very difficult to change even hundreds of years later.
+
+Eons: Hadean, Archean, Proterozoic, Phanerozoic. These are all Greek and mean roughly "hellish", "ancient", "earlier life", and "visible life". Hundreds of years later we have evidence of life in the Archean, but we certainly didn't at the time.
+
+Most recent eras: Paleozoic, Mesozoic, Cenozoic. These are all Greek and mean roughly "old life", "middle life", and "new life". They're all subdivisions of the Phanerozoic eon, which we of course now also have evidence for life existing before.
+
+Most recent periods: Cambrian, Ordovician, Silurian, Devonian, Carboniferous, Permian, Triassic, Jurassic, Cretaceous,  Paleogene, Neogene, Quaternary. Everything before Paleogene is mostly named for the place where it was first discovered. Paleogene and Neogene are of course Greek, meaning roughly "old birth" and "new birth" ("gene" as in "genesis"). Quaternary is actually the usually quite rare English word for "fourth", the term after *primary*, *secondary*, *tertiary*.
+
+Most recent epochs: Paleocene, Eocene, Oligocene, Miocene, Pliocene, Pleistocene, Holocene (and Anthropocene, which is currently in proposal phase). These were discovered out of order and out of context and are retrospectively an incredible feat of naming. They're all Greek, meaning roughly "old new", "dawn new", "few new", "less new", "more new", "most new", "all new", and "human new".

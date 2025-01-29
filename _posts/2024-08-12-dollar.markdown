@@ -3,7 +3,7 @@ layout: post
 title: dollar
 date: 2024-08-12
 categories: etym
-origin: 1581
+origin: 1553
 ---
 The currency *dollar* has been the de facto currency of the United States since before it was a separate country. Owing to British mercantilist policy, there were chronic shortages of British currency in the Thirteen Colonies, leading to Spanish dollars being accepted and used everywhere alongside. "Dollar" became the official name of the US currency with the Coinage Act of 1792.
 

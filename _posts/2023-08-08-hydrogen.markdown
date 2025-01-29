@@ -1,0 +1,10 @@
+---
+layout: post
+title: hydrogen
+date: 2023-08-08
+categories: etym
+origin: 1788
+---
+The element *hydrogen* was named in Greek in 1783 for one of its only known properties when it was discovered: if you burn hydrogen gas, it produces water. I'd never thought to analyze its parts before I learned this: hydro- + -gen, of course!
+
+In particular, I love the German word for it, a calque: Wasserstoff. Imagine if things had gone very slightly differently, English had also taken this approach, and we said "waterstuff" instead every time we now say "hydrogen". Or "smotherstuff" instead of "nitrogen", and so on...

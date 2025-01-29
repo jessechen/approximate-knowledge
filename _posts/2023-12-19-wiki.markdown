@@ -1,0 +1,12 @@
+---
+layout: post
+title: wiki
+date: 2023-12-19
+categories: etym
+origin: 1995
+---
+The description *wiki* for a collection of hyperlinked documents that anyone can edit was coined by Ward Cunningham in 1995 when he created the first one. The concept was inspired by HyperCard stacks. When creating the WikiWikiWeb, which is still online at [https://wiki.c2.com/](https://wiki.c2.com/), he named it after the Wiki Wiki Shuttle at Honolulu International Airport and the Hawaiian word for "quick", *wikiwiki*. The Hawaiian word is a reduplication of "wiki", a Hawaiian verb meaning "speed up", which likely descends from Proto-Polynesian "witi".
+
+One feature of the WikiWikiWeb that often surprises people now is that words are hyperlinks if and only if they are a single CamelCase word. Each CamelCase word automatically linked to either an article with its title or an option to create that article if it didn't exist.
+
+The most notable [citation needed] wiki today, Wikipedia, was established in 2001 using what was then called a WikiWikiClone, UseModWiki for Usenet moderation coordination. It was not until later in 2001 that UseModWiki added support for what is now standard [[wikilink syntax]]; Wikipedia itself retained many CamelCase links well into the early 2000s as it transitioned over.

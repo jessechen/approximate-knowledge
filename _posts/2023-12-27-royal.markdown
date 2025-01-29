@@ -1,0 +1,14 @@
+---
+layout: post
+title: royal
+date: 2023-12-27
+categories: etym
+origin: 1370
+---
+The adjective *royal* meaning "pertaining to a king" is first attested in the late 1300s. It's in use in English by the mid-1200s instead meaning "fit for a king", and comes from the Old French "roial". From 1066 through 1400, every ruler of England natively spoke Old French, so this is a natural borrowing. "Roial", in turn, is descended from the Latin "rēgālis", the adjective form of "rēx", meaning "king". That is likely descended from the reconstructed Proto-Italic "rēks" and the Proto-Indo-European "h₃rḗǵs", which is the likely source for Sanskrit "राजन्" (rā́jan) and eventually Hindi "राजा" (rājā). The concept of a ruler is likely one of the most durable and unusually clear to trace through time.
+
+*Regal*, a close cousin of *royal*, also entered English in the late 1300s, in this case directly from that Latin root "rēgālis". Legal documents in England were all written in Latin at the time, so this seems like another natural borrowing. But wait, if a ruler is a very durable concept, shouldn't English also have had an adjective meaning "kingly" already?
+
+*Kingly* is amazingly also first attested in the late 1300s, but can be traced back through Old English variant spellings to "cyninglīċ" through to Proto-Germanic "kuningaz", meaning "king". It has cognates in the other Germanic langauges, such as German König, the namesake of the city containing the Seven Bridges of Königsberg (currently named Kaliningrad).
+
+*Royal*, *regal*, and *kingly* make up one of English's etymological triplets, three distinct words that mean similar things from similar origins. They are typically from Old English, Old French, and Latin, due to the way languages overlapped in 1300s England. [Wikipedia has a good list](https://en.wikipedia.org/wiki/Doublet_(linguistics)#By_language) if you're hungry for more.

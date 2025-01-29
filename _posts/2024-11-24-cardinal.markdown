@@ -3,7 +3,7 @@ layout: post
 title: cardinal
 date: 2024-11-24
 categories: etym
-origin: 1670
+origin: 800
 ---
 The bird *cardinal* was named in the late 1600s for its distinctive bright red color, which resembled the bright red robes Catholic cardinals wear. The name given to Catholic cardinals predates the English language, first appearing in print in the 700s. It was based on Latin *cardinālis* (root word *cardō*), originally meaning "pivot" or "hinge", but by the 500s being used more to mean "principal" or "eminent", so a natural metaphor for the most important priests.
 
