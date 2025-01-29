@@ -11,13 +11,13 @@ You can find me on Github at [github.com/jessechen](http://github.com/jessechen)
 <TABLE>
 <TR>
 <TD>
-<IMG SRC="/assets/UNDERC~1.GIF">
+<IMG SRC="/assets/UNDERC~1.gif">
 </TD>
 <TD>
-<IMG SRC="/assets/UNDERC~2.GIF">
+<IMG SRC="/assets/UNDERC~2.gif">
 </TD>
 <TD>
-<IMG SRC="/assets/UNDERC~1.GIF">
+<IMG SRC="/assets/UNDERC~1.gif">
 </TD>
 </TR>
 </TABLE>
