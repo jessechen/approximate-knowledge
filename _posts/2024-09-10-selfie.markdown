@@ -1,0 +1,12 @@
+---
+layout: post
+title: selfie
+date: 2024-09-10
+categories: etym
+origin: 2002
+---
+While the noun *selfie* is first attested in 2002 on an Australian website, becoming common Australian slang in that decade, it was not widely used internationally until 2012. The first usage of the #Selfie tag on instagram is recorded in January 2011. By 2013, it was selected as the OED's word of the year. Part of this was likely that taking a selfie was cumbersome until front-facing cameras on phones became commonplace. They were first introduced on the iPhone 4 in mid-2010.
+
+![Google Trends graph for the word "selfie" from 2010 to 2024, showing no activity until 2012, a large spike in 2013, a second large spike in 2015, and then activity tailing off to present low baseline levels by 2019](/assets/selfie.png)
+
+I was surprised to learn that "selfie stick" was not popularized until 2014; the two terms are strongly associated in my head.
