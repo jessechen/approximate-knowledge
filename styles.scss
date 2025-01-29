@@ -6,6 +6,17 @@
     justify-content: space-between;
 }
 
+table {
+    margin-top: 3rem;
+    border: 0.2rem outset;
+    border-collapse: separate;
+    background-color: #ffff00;
+}
+
+table td {
+    border: 0.2rem inset;
+}
+
 details[open] summary {
     margin-bottom: 1rem;
 }

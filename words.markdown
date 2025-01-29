@@ -16,7 +16,7 @@ permalink: /words/
     </p>
     <h1 class="page-heading">Index of all words</h1>
     <ol>
-        {% assign sortedPosts = site.posts | sort: "origin" %}
+        {% assign sortedPosts = site.posts | category: "etym" | sort: "origin" %}
         {%- for post in sortedPosts -%}
         <li>
             <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
