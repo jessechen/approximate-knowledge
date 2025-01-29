@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  burrito
-date:   2024-10-17
+title: burrito
+date: 2024-10-17
 categories: etym
+origin: 1934
 ---
 The wrap *burrito* is first found in print in English in [Erna Fergusson's](https://en.wikipedia.org/wiki/Erna_Fergusson) Mexican Cookbook, published in 1934 in New Mexico. However, the burrito described in this cookbook is more like what we'd call a tostada today.
 

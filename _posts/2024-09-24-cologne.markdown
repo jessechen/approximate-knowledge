@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  cologne
-date:   2024-09-24
+title: cologne
+date: 2024-09-24
 categories: etym
+origin: 1709
 ---
 The scented oil *cologne* is a genericized trademark, named after the fragrance Eau de Cologne, first sold by Italian-German perfumier Giovanni Maria Farina in 1709. Farina's perfume was citrusy and renowned for being consistently homogeneous. Its fame was such that it was referred to as *aqua mirabilis* (Latin for "miracle water") among European nobility, and it cost six months of a clerk's salary per bottle. When France conquered Cologne as part of the 1797 [Treaty of Campo Formio](https://en.wikipedia.org/wiki/Treaty_of_Campo_Formio), the free trade regime it imposed led to dozens of imitators selling knockoff Eau de Cologne springing up, prompting its genericization.
 

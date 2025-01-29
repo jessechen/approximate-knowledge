@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  minute
-date:   2025-01-15
+title: minute
+date: 2025-01-15
 categories: etym
+origin: 1370
 ---
 The time unit *minute* is first attested in English in the late 1300s, a borrowing from Old French *minute*, which is in turn borrowed from Medieval Latin *minūta*. The story of *minūta* is where it gets interesting. In Classical Latin, that word only means "very small". The "small" sense of *minute* was actually borrowed into English later, in the mid-1400s.
 

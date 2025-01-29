@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  stan
-date:   2025-01-23
+title: stan
+date: 2025-01-23
 categories: etym
+origin: 2008
 ---
 The devotional verb *stan* begins appearing in 2008 as a generalization of the noun *stan*. The noun originates from a 2000 song by Eminem, titled "Stan", about an encounter with an eponymous obsessive fan. This usage didn't start catching on until after 2005, but by 2015 it was notable enough to merit [an entry in the OED's blog](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/). By 2017, it warranted a full entry in the big dictionary.
 

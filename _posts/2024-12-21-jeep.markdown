@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  jeep
-date:   2024-12-21
+title: jeep
+date: 2024-12-21
 categories: etym
+origin: 1941
 ---
 The vehicle type *jeep* dates to 1941 US military slang referring to specifically the Willys MB and the closely related Ford GPW. Willys-Overland Motors, its original manufacturer, had to license its design to Ford because it was unable to keep up with production. Ford's model name came from a company template: G for government vehicle, P for 80" wheelbase, and W for Willys original design.
 
