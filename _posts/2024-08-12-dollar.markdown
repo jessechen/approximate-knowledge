@@ -1,0 +1,12 @@
+---
+layout: post
+title: dollar
+date: 2024-08-12
+categories: etym
+origin: 1581
+---
+The currency *dollar* has been the de facto currency of the United States since before it was a separate country. Owing to British mercantilist policy, there were chronic shortages of British currency in the Thirteen Colonies, leading to Spanish dollars being accepted and used everywhere alongside. "Dollar" became the official name of the US currency with the Coinage Act of 1792.
+
+Spanish (the nation) dollars are not called that in Spanish (the language). They are called *pesos*, Spanish for "weight". Spanish dollars were also called "pieces of eight" / "real de a ocho" because they were worth eight *real*, Spanish for "royal". They got their English name beginning around 1581, probably by analogy with Dutch leeuwendalders, *dalers* for short, which were in common use in Nieuw Amsterdam (currently New York).
+
+Leeuwendalders were one of a Cambrian explosion of *thalers* adopted as currency in the Holy Roman Empire in the mid-1500s. The trend ultimately began with the Joachimsthaler in the 1530s, named after the silver mines of the HRE town of Sankt Joachimsthal (German for St. Joachim's Valley, currently Jáchymov in Czechia). So the "doll-" of *dollar* is ultimately from the German word for "valley", "Tal".

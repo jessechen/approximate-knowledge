@@ -1,0 +1,11 @@
+---
+layout: post
+title: pog
+date: 2024-07-17
+categories: etym
+origin: 1991
+---
+Thanks to [this Depths of Wikipedia xeet](https://x.com/depthsofwiki/status/1813364745879396654), I learned two fascinating things:
+
+* The [milk cap game popular in the 1990s](https://en.wikipedia.org/wiki/Milk_caps_(game)) became called *pogs* because of a Hawaiian juice brand short for Passion Orange Guava. They gave away branded caps in the 1970s, which were then an abundant default resource when Blossom Galbiso, a Hawaiian schoolteacher, reintroduced her childhood game to her classes in 1991, which snowballed into an international fad.
+* The original Twitch emote *pogchamp*, which became a global default emote in 2012, is named that because the image is from [a 2010 blooper reel of a YT original show about the Pog championships](https://www.youtube.com/watch?v=g9TNY75jhcs). The interjection became generalized and standardized to *pog* or *poggers* throughout the 2010s.
