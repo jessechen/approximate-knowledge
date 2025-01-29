@@ -1,0 +1,12 @@
+---
+layout: post
+title: werewolf
+date: 2023-09-01
+categories: etym
+origin: -1000
+---
+The word *werewolf* predates English, which means it was first used some time before the year 400. It's a compound of wer-, meaning "male person", and -wolf, meaning "wolf". Basically just "Man-Wolf" (1962, DC Comics) or "The Wolf Man" (1941, Universal Pictures), except using what was then the word for "man".
+
+Notably, *wer* used to be the English word for "husband" before *husband* took over its meaning around 1300, a revelation if, like me, you ever wondered why it looks so different from "wife". A married couple were *wer and wyf* before then. The Latin equivalent is vir-, like in *virile*.
+
+Today, were- is a productive prefix in English, yielding gems like *weretiger*, which can be used without any consideration to the weretiger's gender.

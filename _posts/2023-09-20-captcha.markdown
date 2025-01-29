@@ -1,0 +1,12 @@
+---
+layout: post
+title: captcha
+date: 2023-09-20
+categories: etym
+origin: 2001
+---
+The term *captcha* was invented around 2000 by Luis von Ahn and Manuel Blum at CMU. Short for "Completely Automated Public Turing test to tell Computers and Humans Apart", the word described a technology that had been [in use since 1997](https://patentimages.storage.googleapis.com/9c/fc/21/1188d59d94d268/US20050114705A1.pdf) to deter bots on the internet.
+
+Frustratingly, Wiktionary lists a first usage date of 2000 but doesn't have a citation, while Wikipedia claims 2003. The 2003 date is clearly too late since their 2003 paper cites a 2002 paper that uses "CAPTCHA" in its title. [This 2002 ACM newsletter](http://www.cs.cmu.edu/~mblum/research/pdf/tell.pdf) by its inventors is the earliest publication I can find so far. [Blum's publication history](http://www.cs.cmu.edu/~mblum/research/) doesn't include anything that looks promising earlier. I suspect they were using the term in 2000, which is where the commonly cited date comes from, but didn't publish anything using it until 2002.
+
+Anyway, here's a captcha from 1997: [https://upload.wikimedia.org/wikipedia/commons/6/69/Captcha.jpg](https://upload.wikimedia.org/wikipedia/commons/6/69/Captcha.jpg)

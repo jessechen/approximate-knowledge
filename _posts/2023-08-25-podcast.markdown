@@ -1,0 +1,8 @@
+---
+layout: post
+title: podcast
+date: 2023-08-25
+categories: etym
+origin: 2004
+---
+The term *podcast* was first used in a 2004 Guardian article, as a portmanteau of "iPod" and "broadcast". An iPod was a portable music player that only played music in digital formats, typically mp3 or aac, rather than relying on CDs or other physical media. This allowed them to be lightweight and compact in comparison. They were in production from 2001-2022.

@@ -1,0 +1,12 @@
+---
+layout: post
+title: hello
+date: 2023-09-05
+categories: etym
+origin: 1834
+---
+The greeting *hello* is first found in print (spelled "hulloa") in a 1878 Connecticut phone directory. Before becoming the default English phone greeting word, it was used in the American West as a nonsense shout to get attention, as early as 1826. It's likely related to  similar attention-getting English shouts, probably descending from "Hey! Lo!" over a thousand years ago.
+
+Notably, Alexander Graham Bell preferred the use of a different specialist greeting word, the nautical *ahoy*, when answering the phone. His reasoning was similar to "hello" - it was an existing word that wasn't widely used and was easy to distinguish from any other word, like how *Alexa* or *Siri* were decided on as wakewords more recently. In a recurring theme, "hello" had Edison's support and eventually won out, although the deciding factor was probably early phone etiquette guides recommending its use. Bell continued to answer the phone with "ahoy" until his death.
+
+You may notice just how path-dependent this development is. In particular, early phone etiquette developing differently in different countries can be a fun mirror into alternate realities. For example, Mexican Spanish uses ¿Bueno? as shorthand for "Is the connection good?" while Spain Spanish uses ¿Diga? meaning "Yes, speak?"

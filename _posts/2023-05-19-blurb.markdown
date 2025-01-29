@@ -1,0 +1,8 @@
+---
+layout: post
+title: blurb
+date: 2023-05-19
+categories: etym
+origin: 1907
+---
+The term *blurb* was invented by comedic writer Gelett Burgess in 1907 as the name of a fictional young woman blatantly promoting his book. This act of blatant self-promotion on the back flap of a book cover eventually generalized to "short promotional quote" in part due to its ridiculous name.

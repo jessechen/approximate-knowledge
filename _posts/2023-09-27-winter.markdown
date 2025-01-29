@@ -1,0 +1,12 @@
+---
+layout: post
+title: winter
+date: 2023-09-27
+categories: etym
+origin: 0
+---
+The season *winter* predates English, which means it was first used some time before the year 400. I've been focusing on new or interesting words in these posts, but that's not really representative of the set of words we use in practice. The plurality of words used in both English speech and writing are still old Germanic in origin, i.e. from before the year 400. Courtesy of [this youtube video](https://www.youtube.com/watch?v=ryVG5LHRMJ4), here's a Dutch sentence that you could render into English using only Germanic words:
+
+De koude winter is nabij, een sneeuwstorm zal komen. Kom in mijn warme huis, mijn vriend. Welkom! Kom hier, zing en dans, eet en drink. Dat is mijn plan. We hebben water, bier, en melk vers van de koe. Oh, en warme soep!
+
+For completeness, about 1000 years ago the four seasons in English would be called **lengthen, summer, harvest, and winter**. The holiday *Lent* is named after the season it took place in. In this particular case, *winter* is probably more than 2,000 years old and less than 3,000 years old, but that's about as accurate as you can get that far before writing.

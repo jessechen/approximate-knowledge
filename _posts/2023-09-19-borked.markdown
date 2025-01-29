@@ -1,0 +1,10 @@
+---
+layout: post
+title: borked
+date: 2023-09-19
+categories: etym
+origin: 1987
+---
+The verb *borked* originates from the 1987 nomination of Robert Bork to the Supreme Court by Ronald Reagan. He was seen as an unacceptable candidate by the Democratic establishment, who coordinated an intensively negative PR campaign that led to Bork being the only Supreme Court nominee to be rejected by Senate vote in the last 50 years. The seat was instead filled the next year by Anthony Kennedy. As always, Wikipedia [has more detail for those interested](https://en.wikipedia.org/wiki/Robert_Bork_Supreme_Court_nomination).
+
+The verb appears in print even before Bork's nomination was resolved, and gained a more specific association with computer failures in the 2000s, possibly additionally assisted by looking like a playful misspelling of "broken"/"broked" and the Muppets' Swedish Chef's "bork, bork, bork" catchphrase from 1975.

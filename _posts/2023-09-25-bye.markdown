@@ -1,0 +1,8 @@
+---
+layout: post
+title: bye
+date: 2023-09-25
+categories: etym
+origin: 1618
+---
+The valediction *bye* is a shortening of *goodbye*, dating from around 1703. *Goodbye*, in turn, is a shortening of "God be with ye", dating from around 1570. "God be with ye" was a common English valediction beginning around the 1370s. Some intermediate common short forms from earlier in the 1500s include "God be wy you", "Godbwye", and "God buy", but similarity in use with "good day" and "good evening" eventually changed the first word to "good" in common use.

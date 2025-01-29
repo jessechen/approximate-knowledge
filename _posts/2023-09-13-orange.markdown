@@ -1,0 +1,12 @@
+---
+layout: post
+title: orange
+date: 2023-09-13
+categories: etym
+origin: 1370
+---
+The color *orange* is first used as a color word in 1502 by analogy with the fruit, like with *indigo* and *olive*. The fruit, in turn, is first described in English as *orenge* in the late 1300s, named after the French term "pome orenge", which went on a journey through Italian "arancia", Arabic "نارنج" (nāranj), and Persian "نارنگ" (nārang), finally originating with Sanskrit "नारङ्ग" (nāraṅga) around the tree's original range in northern India.
+
+Usages from 1502 through the early 1600s all say "orange-coloured", eventually dropping the second word once it became implicit that orange was a real, proper color word. So wait, what was the English word for that color all that time before anyone speaking it knew what an orange was?
+
+It looks like it displaced several other words. Often it was called the equivalent of "yellow-red", ġeolurēad, like we sometimes say "blue-green" today for cyan or teal. Sometimes it was referred to using other similarly-colored things like *saffron* or *citrine*. In heraldry the color was called *tawny*. Finally, it was sometimes just called "red", which had a wider definition back then. Elements of this can still be seen in things that are still referred to as "red" even though they are clearly orange, like "redhead", ["red-breasted robin"](https://upload.wikimedia.org/wikipedia/commons/b/b8/Turdus-migratorius-002.jpg), or [Mars](https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png) being the "red planet".

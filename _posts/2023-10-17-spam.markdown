@@ -1,0 +1,14 @@
+---
+layout: post
+title: spam
+date: 2023-10-18
+categories: etym
+origin: 1937
+---
+The canned meat *spam* was introduced by Minnesota-based Hormel Foods Corporation in 1937. Officially, the origin of the name is a corporate secret, but it's likely named after a contraction of an earlier Hormel canned meat product sold as "spiced ham".
+
+Spam turned out to have the right combination of qualities to be effective food aid, so large quantities were produced and distributed as part of the WW2 Lend-Lease Act. In particular, the UK was sent vast quantities of the food, exemplified by Margaret Thatcher pejoratively describing it as a "wartime delicacy". Spam became a key ingredient in Hawaiian and Filipino cuisine during this time.
+
+A generation later, in 1970 UK comedy troupe Monty Python referenced the phenomenon in an absurdist sketch set in a restaurant where all the menu items contained spam, often more than once. [Here's](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monty_Python_Live_02-07-14_13_04_42_%2814598710791%29.jpg/1280px-Monty_Python_Live_02-07-14_13_04_42_%2814598710791%29.jpg) a menu photo from a 2014  theatrical production.
+
+Monty Python was then a touchstone of nerd culture, so the spam sketch and its associated song lyrics sometimes showed up as trolly chat macros on Usenet and IRC in the 1980s. Two different related slang meanings eventually became codified on the internet: email spam, which is first named as such in 1993, and the verb *spamming* for repeatedly sending messages to fill up the chat buffer. Both meanings first appear in a print dictionary in 1998.

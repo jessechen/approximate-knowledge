@@ -1,0 +1,8 @@
+---
+layout: post
+title: escalate
+date: 2023-08-11
+categories: etym
+origin: 1944
+---
+The verb *escalate* starts appearing in 1959 as a metaphor for an increasingly mutually destructive nuclear war. It was derived from the trademarked Escalator, named in 1900 shortly after its invention. The name Escalator, in turn, was made up to suggest the complementary *elevator*, where -scala- is "ladder" in Latin (-levare- is "lift", but "elevate" was an English word already).
