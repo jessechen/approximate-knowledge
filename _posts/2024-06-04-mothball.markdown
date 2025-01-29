@@ -1,0 +1,10 @@
+---
+layout: post
+title: mothball
+date: 2024-06-04
+categories: etym
+origin: 1892
+---
+The figurative sense of the verb *mothball*, putting something in storage, is first attested in 1926 but only came into popular use in 1946, in reference to US battleships after WW2. Meanwhile, the literal sense of putting your old clothes in a closet with the mothballs goes back to 1902. The noun *mothball* is from 1892. At that time mothballs' active ingredient was naphthalene, a simple hydrocarbon byproduct of refining oil first characterized in 1821 that emits an odor that is deadly to moths, and as we unfortunately learned a century later, also carcinogenic to humans.
+
+The word's constituent parts, *moth* and *ball*, both predate English and can be traced back to reconstructed Proto-Indo-European mut- meaning "worm" and bʰol-n- meaning "ball", preserved nearly unchanged over a period of more than five thousand years.

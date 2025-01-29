@@ -1,0 +1,8 @@
+---
+layout: post
+title: blimp
+date: 2024-05-14
+categories: etym
+origin: 1916
+---
+The airship type *blimp* first appears as British navy slang in 1916. Its etymology is unknown.

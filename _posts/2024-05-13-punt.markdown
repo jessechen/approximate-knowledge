@@ -1,0 +1,10 @@
+---
+layout: post
+title: punt
+date: 2024-05-13
+categories: etym
+origin: 1845
+---
+The action *punt*, meaning to cancel, defer, or pass responsibility to, starts appearing in the 1970s as university student slang with the specific meaning of "drop a course so as not to fail it". This is by analogy to the American football action, where you punt when you can no longer continue. The name of that action comes from the rugby action *punt* meaning "kick before it hits the ground", first found in print in an 1845 rugby rulebook. The rugby term's origin is unclear, possibly a variant of Midlands dialectal *bunt* "to push or headbutt".
+
+Confusingly, the term seems to be unrelated to the boat *punt*, which along with *pontoon* can be traced back to Latin pontō "ferryboat", from Latin pōns "bridge".

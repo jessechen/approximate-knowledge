@@ -1,0 +1,14 @@
+---
+layout: post
+title: wrought
+date: 2024-03-25
+categories: etym
+origin: 1250
+---
+The irregular verb form *wrought* is first attested in the 1200s, as the past tense of "work". The regular past form we use today, "worked", dates to the 1500s. Learning this just now got me wondering what people used as the past tense of "work" before the 1200s, but it seems like there just aren't many English texts from before then.
+
+As with many archaic but common words, *wrought* still survives as part of some stock phrases, most notably "wrought iron". In an especially strange case, "work havoc" used to be a common phrase and "wreak havoc" is now a common phrase. So the use of "wrought havoc" in older text, as well as its similar spelling, led people to assume "wrought" is also a past tense of "wreak".
+
+English, like most languages, has a long history of irregular forms becoming regular as new generations learn the language but not the rare or uncommon irregular forms. This is in part why any irregular verbs still in use tend to be very common, like "ran", "went", or "flew". I just learned when looking up archaic irregular forms now that "leap" also used to be irregular, "lope", which we see preserved in words like "loping". "Write" used to be "writ", preserved in phrases like "writ large".
+
+The opposite direction, a regular verb becoming irregular over time, is much more rare. My favorite example is the American past tense of "sneak" changing from "sneaked" to "snuck" around the 1870s, by analogy with "strike"/"struck". (Other dialects of English still generally favor "sneaked", but American cultural ubiquity has eaten away at that.)

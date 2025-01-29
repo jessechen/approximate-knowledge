@@ -1,0 +1,16 @@
+---
+layout: post
+title: roshambo
+date: 2024-05-28
+categories: etym
+origin: 1915
+---
+The game *roshambo*, or rock-paper-scissors, has an unknown etymology, but we know enough about its history that I have an educated guess.
+
+Roshambo was introduced to the US in the 1910s, although it took some time to become universal. One of my favorite genres of historical article, the NYT explaining how to do a thing everyone knows today, occurs in a 1932 article that describes how to play rock-paper-scissors. It's clearly based on the Japanese game じゃんけん (jan-ken) featuring the same rules and hand symbols.
+
+Jan-ken is the main surviving variant of a category of games popular in Japan in the 1700s called 三すくみ拳 (sansukumi-ken), meaning "hand games with three who are afraid of one another". Those, in turn, seem to originate from a Chinese game, 手势令 (shoushiling), first documented in 1616. *That* source claims the game is thousands of years old, which it may well be, but no evidence of that survives.
+
+Oddly, jan-ken was neither the first introduced, nor the most popular sansukumi-ken, in the 1700s. Those all have the same rules as rock-paper-scissors, but use different gestures. The most popular variant was 狐拳 (kitsune-ken), where the kitsune (magical fox) beats the village elder, but is beaten by the hunter. The first Japanese sansukumi-ken was 虫拳 (mushi-ken), which features the frog (thumbs up) which beats the slug (pinky up) but is beaten by the snake (index finger curled). The slug is actually the result of a translation error; in the originating Chinese version, it is a centipede, believed to kill snakes by burrowing into their brains. Researching this led me to finally understand why the slug, frog, and snake featured so prominently in [an obscure video game from my childhood](https://en.wikipedia.org/wiki/Ghost_Lion).
+
+Anyway! In the 1920s US the game is sometimes called "John Kempo", likely based on the Japanese syllables "jan-ken-pon" said aloud while playing, where today we'd say "rock, paper, scissors, shoot". I suspect some kids started saying "Rochambeau" instead because it sounds funny and similar and was [a silly name they'd learned in school](https://en.wikipedia.org/wiki/Jean-Baptiste_Donatien_de_Vimeur,_comte_de_Rochambeau), that spread as these things do through kids' folklore, and that stuck phonetically as "roshambo".

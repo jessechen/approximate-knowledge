@@ -1,0 +1,8 @@
+---
+layout: post
+title: boutique
+date: 2024-04-22
+categories: etym
+origin: 1767
+---
+Last week I learned that *boutique* (borrowed directly from French) and *bodega* (borrowed directly from Spanish) are both direct descendants of Ancient Greek ἀποθήκη (apothḗkē), meaning "storehouse", via Latin apothēca. The historical *apothecary* is, of course, a third descendant.

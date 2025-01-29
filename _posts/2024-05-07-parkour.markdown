@@ -1,0 +1,12 @@
+---
+layout: post
+title: parkour
+date: 2024-05-07
+categories: etym
+origin: 2002
+---
+The hobby *parkour* first shows up in English as a direct borrowing from French *parkour* in 2002. The French word comes  from Vulgar Latin percurrure "run through, pass over", itself from Latin per- "through" + -curro "travel, hurry".
+
+I recall the English parkour community debating what made a set of movements "parkour" (efficient, minimal motion) vs. "free running" (nonfunctional flourishes) for a few years, but people outside of it seem to have mostly settled on calling everything under the umbrella "parkour". This was in the days before streaming video, when you'd have to decide whether to download an interesting-sounding video on LimeWire for 20 hours from its title alone.
+
+As far as anyone can tell, there is no performance benefit to yelling "Parkour!" while performing the activity.
