@@ -21,3 +21,5 @@ You can find me on Github at [github.com/jessechen](http://github.com/jessechen)
 </TD>
 </TR>
 </TABLE>
+
+<H1><A HREF="mailto:demoncat@approximateknowledge.com" CLASS="EMAIL"><IMG SRC="/assets/EMAIL.gif"> --&gt; E-MAIL ME &lt;-- <IMG SRC="/assets/EMAIL.gif"></A></H1>
