@@ -1,0 +1,14 @@
+---
+layout: post
+title: quark
+date: 2025-02-02
+categories: etym
+origin: 1964
+---
+The subatomic particle *quark* gets its name from one of the two physicists who independently proposed its existence in 1964, Murray Gell-Mann. Incidentally, Murray is the same person Gell-Mann amnesia (the tendency to take media reporting at face value in fields you don't know well, despite seeing how inaccurate it is in fields you do know well) was named for by Michael Crichton.
+
+Murray reports he knew what sound he wanted to associate with the theoretical particles, /kwork/, before deciding how to spell it. He came across the spelling in James Joyce's 1939 book *Finnegans Wake*, where it is used as a mocking nonsense word, but is pronounced to rhyme with "bark" and "mark". Making sense of James Joyce's inspirations is where the trail ends, though it's often proposed that the nonsense word is ultimately from a German word of Slavic origin, "Quark", meaning "cottage cheese" or "rubbish".
+
+Quarks were later proven to actually exist in a 1968 experiment. Murray's initially proposed three flavors (aligning with Joyce's usage, "Three quarks for Muster Mark!") were eventually extended to their current count of six in a 1975 paper. I love the poetic names *truth* and *beauty* for the fifth and sixth flavors, but they are now typically called *top* and *bottom*. Notably, the top quark was not confirmed to exist until 1995.
+
+George Zweig, the other physicist who proposed the existence of quarks in 1964, instead favored the name *ace* for the class of particles.
