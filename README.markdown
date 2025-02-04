@@ -11,8 +11,8 @@ Production
 
 https://approximateknowledge.net
 
-Setup
------
+Local Development
+-----------------
 
 `bundle exec jekyll serve`
 
