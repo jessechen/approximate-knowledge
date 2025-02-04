@@ -1,0 +1,12 @@
+---
+layout: post
+title: debt
+date: 2025-02-04
+categories: etym
+origin: 1280
+---
+The word for a thing that is owed *debt* first appears in English in the 1200s as a borrowing from Old French *dete*. As a reminder, in the 1200s in England, the peasants spoke English and the nobility spoke French. The King of England did not speak English. Usually, we retain the English words from that period, but sometimes we retain the French word instead, or both words (e.g. English-derived *help* and French-derived *aid*, or English-derived *lake* and French-derived *lagoon*). In the case of *debt*, we retained just the French word and lost the Middle English word *shild* (Old English *scyld*, German cognate *Schuld*).
+
+So wait, if we borrowed the word from *dete*, and spelled it *dette* as pronounced in the 1300s, where did the silent 'b' come from? In the 1400s, literate people in England typically knew Latin and believed English should be more like the ursprache Latin. Well, in Latin, there's this word *dēbitum*, meaning debt, that the French word is descended from. So scribes from that period all ended up agreeing to put the vestigial 'b' back into the spelling, cursing us to this day.
+
+*Dēbitum* would of course later be borrowed into English on its own merits as *debit*, but that wouldn't happen for several hundred years.
