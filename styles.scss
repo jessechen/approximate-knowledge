@@ -38,6 +38,15 @@ h1 .EMAIL {
     font-family: Times, "Times New Roman", serif;
 }
 
+img + em {
+    display: block;
+    font-size: small;
+}
+
+img + em::before {
+    content: 'ID: ';
+}
+
 details[open] summary {
     margin-bottom: 1rem;
 }

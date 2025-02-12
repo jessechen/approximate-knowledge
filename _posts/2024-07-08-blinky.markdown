@@ -6,6 +6,7 @@ categories: etym
 origin: 1980
 ---
 ![A portion of the attract mode screen for Pac-Man showing images of the four ghosts and their names and attributes, described below, in Japanese but rendered in romaji](/assets/aosuke.png)
+*A portion of the attract mode screen for Pac-Man showing images of the four ghosts and their names and attributes, described below, in Japanese but rendered in romaji*
 
 In perhaps the best video game localization decision of 1980[1], the Pac-Man ghosts' original nicknames, rendered in romaji as Akabei, Pinky, Aosuke, and Guzuta, were localized to English as Blinky, Pinky, Inky, and Clyde. Romaji was likely used due to memory limitations; through the 1980s many Japanese video games only used romaji, and through the 1990s eschewed kanji, for this reason. The original names similarly single out Clyde as different, roughly translated as:
 
