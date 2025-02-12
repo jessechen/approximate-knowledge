@@ -1,0 +1,15 @@
+---
+layout: post
+title: numeral
+date: 2024-09-12
+categories: etym
+origin: 1654
+---
+I got nerdsniped by the development of the numerals we use last week. It's difficult to find images of historical numerals! This is the best I was able to reconstruct, with the link between the Shang numerals and the Brahmi numerals only speculative:
+
+![Photo of a sheet of paper with a table of written depictions of historical numerals from 0 to 9, with the headings "Shang c. 8700", "Brahmi c. 10100", "c. 10600", "Persian c. 11000", "Andalusian c. 11400", and "Typeset c. 11540"](/assets/numerals.jpeg)
+*Photo of a sheet of paper with a table of written depictions of historical numerals from 0 to 9, with the headings "Shang c. 8700", "Brahmi c. 10100", "c. 10600", "Persian c. 11000", "Andalusian c. 11400", and "Typeset c. 11540"*
+
+(Dates are in [HE](https://en.wikipedia.org/wiki/Holocene_calendar) for easier parsing across the 1 CE boundary.)
+
+Even though the link between Shang and Brahmi is speculative, it's startling how strong the link is between Shang and [modern Chinese numerals](https://www.omniglot.com/chinese/numerals.htm#:~:text=Modern%20Chinese%20numerals).
