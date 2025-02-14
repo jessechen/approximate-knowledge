@@ -15,6 +15,7 @@ url: "http://approximateknowledge.net" # the base hostname & protocol for your s
 theme: minima
 header_pages:
   - words.markdown
+  - other.markdown
   - about.markdown
 paginate: 5
 plugins:
