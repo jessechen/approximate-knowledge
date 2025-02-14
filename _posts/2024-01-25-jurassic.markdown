@@ -14,3 +14,180 @@ Most recent eras: Paleozoic, Mesozoic, Cenozoic. These are all Greek and mean ro
 Most recent periods: Cambrian, Ordovician, Silurian, Devonian, Carboniferous, Permian, Triassic, Jurassic, Cretaceous,  Paleogene, Neogene, Quaternary. Everything before Paleogene is mostly named for the place where it was first discovered. Paleogene and Neogene are of course Greek, meaning roughly "old birth" and "new birth" ("gene" as in "genesis"). Quaternary is actually the usually quite rare English word for "fourth", the term after *primary*, *secondary*, *tertiary*.
 
 Most recent epochs: Paleocene, Eocene, Oligocene, Miocene, Pliocene, Pleistocene, Holocene (and Anthropocene, which is currently in proposal phase). These were discovered out of order and out of context and are retrospectively an incredible feat of naming. They're all Greek, meaning roughly "old new", "dawn new", "few new", "less new", "more new", "most new", "all new", and "human new".
+
+<table>
+<tbody><tr>
+<td>Eon</td><td>Era</td><td>Period</td><td>Epoch</td><td>Start (Mya)</td><td>End (Mya)</td><td>Greek Gloss</td><td>Place Name</td>
+</tr>
+<tr>
+<td>Hadean</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">4567</td><td align="right">4031</td><td>hellish</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>Archean</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">4031</td><td align="right">2500</td><td>ancient</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>Eoarchean</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">4031</td><td align="right">3600</td><td>dawn ancient</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>Paleoarchean</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">3600</td><td align="right">3200</td><td>old ancient</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>Mesoarchean</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">3200</td><td align="right">2800</td><td>middle ancient</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>Neoarchean</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">2800</td><td align="right">2500</td><td>new ancient</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>Proterozoic</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">2500</td><td align="right">539</td><td>earlier life</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>Paleoproterozoic</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">2500</td><td align="right">1600</td><td>old earlier life</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Siderian</td><td>&nbsp;</td><td align="right">2500</td><td align="right">2300</td><td>iron</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Rhyacian</td><td>&nbsp;</td><td align="right">2300</td><td align="right">2050</td><td>stream of lava</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Orosirian</td><td>&nbsp;</td><td align="right">2050</td><td align="right">1800</td><td>mountain range</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Statherian</td><td>&nbsp;</td><td align="right">1800</td><td align="right">1600</td><td>stable</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>Mesoproterozoic</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">1600</td><td align="right">1000</td><td>middle earlier life</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Calymmian</td><td>&nbsp;</td><td align="right">1600</td><td align="right">1400</td><td>cover</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Ectasian</td><td>&nbsp;</td><td align="right">1400</td><td align="right">1200</td><td>extension</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Stenian</td><td>&nbsp;</td><td align="right">1200</td><td align="right">1000</td><td>narrow</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>Neoproterozoic</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">1000</td><td align="right">539</td><td>new earlier life</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Tonian</td><td>&nbsp;</td><td align="right">1000</td><td align="right">720</td><td>stretch</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Cryogenian</td><td>&nbsp;</td><td align="right">720</td><td align="right">635</td><td>cold birth</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Ediacaran</td><td>&nbsp;</td><td align="right">635</td><td align="right">539</td><td>&nbsp;</td><td>Ediacara Hills, Australia</td>
+</tr>
+<tr>
+<td>Phanerozoic</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">539</td><td align="right">0</td><td>visible life</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>Paleozoic</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">539</td><td align="right">252</td><td>old life</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Cambrian</td><td>&nbsp;</td><td align="right">539</td><td align="right">485</td><td>&nbsp;</td><td>Cymru (Wales)</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Terreneuvian</td><td align="right">539</td><td align="right">521</td><td>&nbsp;</td><td>Terre-Neuve (Newfoundland)</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>(unnamed)</td><td align="right">521</td><td align="right">509</td><td>&nbsp;</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Miaolingian</td><td align="right">509</td><td align="right">497</td><td>&nbsp;</td><td>Miao Ling, China</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Furongian</td><td align="right">497</td><td align="right">485</td><td>lotus (Mandarin)</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Ordovician</td><td>&nbsp;</td><td align="right">485</td><td align="right">444</td><td>&nbsp;</td><td>Ordovices (Celtic tribe)</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Silurian</td><td>&nbsp;</td><td align="right">444</td><td align="right">419</td><td>&nbsp;</td><td>Silures (Celtic tribe)</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Llandovery</td><td align="right">444</td><td align="right">433</td><td>&nbsp;</td><td>Llandovery, Wales</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Wenlock</td><td align="right">433</td><td align="right">427</td><td>&nbsp;</td><td>Wenlock Edge, England</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Ludlow</td><td align="right">427</td><td align="right">423</td><td>&nbsp;</td><td>Ludlow, England</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Pridoli</td><td align="right">423</td><td align="right">419</td><td>&nbsp;</td><td>Přídolí, Czechia</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Devonian</td><td>&nbsp;</td><td align="right">419</td><td align="right">359</td><td>&nbsp;</td><td>Devon, England</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Carboniferous</td><td>&nbsp;</td><td align="right">359</td><td align="right">300</td><td>coal-bearing (Latin)</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Mississippian</td><td align="right">359</td><td align="right">323</td><td>&nbsp;</td><td>Mississippi, USA</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Pennsylvanian</td><td align="right">323</td><td align="right">300</td><td>&nbsp;</td><td>Pennsylvania, USA</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Permian</td><td>&nbsp;</td><td align="right">300</td><td align="right">252</td><td>&nbsp;</td><td>Perm, Russia</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Cisuralian</td><td align="right">300</td><td align="right">273</td><td>&nbsp;</td><td>Ural Mountains (Russia/Kazakhstan)</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Guadalupian</td><td align="right">273</td><td align="right">260</td><td>&nbsp;</td><td>Guadalupe Mountains, USA</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Lopingian</td><td align="right">260</td><td align="right">252</td><td>&nbsp;</td><td>Loping, China</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>Mesozoic</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">252</td><td align="right">66</td><td>middle life</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Triassic</td><td>&nbsp;</td><td align="right">252</td><td align="right">201</td><td>triad (Latin)</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Jurassic</td><td>&nbsp;</td><td align="right">201</td><td align="right">145</td><td>&nbsp;</td><td>Jura Mountains (France/Switzerland)</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Cretaceous</td><td>&nbsp;</td><td align="right">145</td><td align="right">66</td><td>chalk (Latin)</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>Cenozoic</td><td>&nbsp;</td><td>&nbsp;</td><td align="right">66</td><td align="right">0</td><td>new life</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Paleogene</td><td>&nbsp;</td><td align="right">66</td><td align="right">23</td><td>old birth</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Paleocene</td><td align="right">66</td><td align="right">56</td><td>old new</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Eocene</td><td align="right">56</td><td align="right">33.9</td><td>dawn new</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Oligocene</td><td align="right">33.9</td><td align="right">23</td><td>few new</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Neogene</td><td>&nbsp;</td><td align="right">23</td><td align="right">2.58</td><td>new birth</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Miocene</td><td align="right">23</td><td align="right">5.33</td><td>less new</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Pliocene</td><td align="right">5.33</td><td align="right">2.58</td><td>more new</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>Quaternary</td><td>&nbsp;</td><td align="right">2.58</td><td align="right">0</td><td>fourth (English)</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Pleistocene</td><td align="right">2.58</td><td align="right">0.012</td><td>most new</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Holocene</td><td align="right">0.012</td><td align="right">0</td><td>all new</td><td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Anthropocene*</td><td align="right">0</td><td align="right">0</td><td>human new</td><td>&nbsp;</td>
+</tr>
+</tbody></table>

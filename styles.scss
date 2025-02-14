@@ -19,25 +19,6 @@ body {
     float: right;
 }
 
-table {
-    margin-top: 3rem;
-    border: 0.2rem outset;
-    border-collapse: separate;
-    background-color: #ffff00;
-}
-
-table td {
-    border: 0.2rem inset;
-}
-
-h1 .EMAIL {
-    color: #ff0000;
-    text-decoration: underline;
-    font-style: italic;
-    font-weight: 700;
-    font-family: Times, "Times New Roman", serif;
-}
-
 img + em {
     display: block;
     font-size: small;
